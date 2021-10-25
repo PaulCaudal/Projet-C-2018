@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1525796146 source:c:\users\paulc\desktop\projet info s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"biblio2.h"
+
+1525796146 c:\users\paulc\desktop\projet info s2\biblio2.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1525796146 source:c:\users\paulc\desktop\projet info s2\source2.c
+	"biblio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1525793734 source:c:\users\paulc\desktop\projet info s2\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"biblio2.h"
+
+1525782731 source:c:\users\paulc\desktop\projet info s2\tabmap2.c
+	"biblio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1525795070 source:c:\users\paulc\desktop\projet info s2\tabmouv2.c
+	"biblio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1525795210 source:c:\users\paulc\desktop\projet info s2\niv1.c
+	"biblio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1525795210 source:c:\users\paulc\desktop\projet info s2\niv2.c
+	"biblio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1525795210 source:c:\users\paulc\desktop\projet info s2\niv3.c
+	"biblio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1525794216 source:c:\users\paulc\desktop\projet info s2\tabbot.c
+	"biblio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1525795210 source:c:\users\paulc\desktop\projet info s2\niv4.c
+	"biblio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
